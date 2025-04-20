@@ -509,6 +509,7 @@ PRODUCT_PACKAGES += \
     libdisplayqos \
     libdisplayskuutils \
     libdlbdsservice \
+    libdlbpreg \
     libdolbyottcameracontrol \
     libdpmqmihal \
     libdpps \
@@ -735,6 +736,7 @@ PRODUCT_PACKAGES += \
     libssc_default_listener \
     libssd \
     libstfactory-vendor \
+    libswspatializer_ext \
     libsynergy_loc_api \
     libsys_info_cache \
     libsystem_health_mon \
@@ -803,10 +805,14 @@ PRODUCT_PACKAGES += \
     se_nq_extn_client \
     sensors.ssc \
     libasphere \
+    libdlbvol \
+    libhwdap \
     libmisoundfx \
     libquasar \
     libshoebox \
+    libspatializer \
     libswgamedap \
+    libswspatializer \
     libswvqe \
     vendor.display.color@1.0 \
     vendor.display.color@1.1 \
